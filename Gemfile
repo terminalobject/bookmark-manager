@@ -6,6 +6,7 @@ ruby '2.4.0'
 gem "dm-postgres-adapter"
 gem "data_mapper"
 gem "sinatra"
+gem "sinatra/flash"
 gem "rspec"
 gem "capybara"
 gem "database_cleaner"
